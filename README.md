@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dhana Karthikeya 👋
 
-<!--
-**vdkarthikeya/vdkarthikeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at UC Berkeley studying **Data Science & Applied Mathematics**,
+with a growing focus on machine learning — particularly reinforcement
+learning and multimodal AI.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Data Science Intern @ **IDX Exchange** — ML pipelines for real estate valuation
+- Engineering Intern @ **Guang Labs** — AI-powered gaming highlights
+- Incoming Fung Fellow @ **UC Berkeley** — Health + Innovation Track
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**UC Berkeley** — B.A. Data Science & Applied Mathematics (GPA: 3.82)  
+Expected Graduation: Fall 2027
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, SQL, Scheme, C++  
+**ML/DS:** PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, SentenceTransformers  
+**Tools:** pandas, NumPy, Git, Jupyter, Google Colab
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vdkarthikeya-blue)](https://linkedin.com/in/vdkarthikeya)
+[![Email](https://img.shields.io/badge/Email-vdkarthikeya@berkeley.edu-red)](mailto:vdkarthikeya@berkeley.edu)
