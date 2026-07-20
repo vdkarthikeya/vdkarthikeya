@@ -1,6 +1,6 @@
 # Hi, I'm Dhana Karthikeya 👋
 
-Senior at UC Berkeley studying **Data Science (Applied Mathematics emphasis)**, with a growing focus on machine learning — particularly reinforcement learning and multimodal AI.
+Senior at UC Berkeley studying **Data Science and Applied Mathematics**, with a growing focus on machine learning — particularly reinforcement learning and multimodal AI.
 
 ## 🔭 Currently
 - **Engineering Intern @ Guang Labs** — async video-classification API (FastAPI · Gemini · Postgres)
