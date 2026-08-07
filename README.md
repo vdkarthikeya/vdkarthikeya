@@ -5,7 +5,7 @@ Senior at UC Berkeley studying **Data Science and Applied Mathematics**, with a 
 ## 🔭 Currently
 - **Engineering Intern @ Guang Labs** — async video-classification API (FastAPI · Gemini · Postgres)
 - **Data Science Intern @ IDX Exchange** — home-price modeling on California MLS data
-- **Course Staff (UCS1) @ CS 61A** — teaching intro CS (Python & Scheme), 200+ students
+- **Course Staff (UCS1) @ CS 61A** — teaching intro CS (Python, SQL & Scheme), 200+ students
 - **Incoming Fung Fellow @ UC Berkeley** — Health + Innovation Track
 
 ## 🎓 Education
