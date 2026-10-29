@@ -12,7 +12,7 @@ Senior at UC Berkeley studying **Data Science and Applied Mathematics**, focused
 ## 🚀 Recent projects
 | Project | What it is |
 |---|---|
-| [**Hindsight**](https://github.com/Cal-Hacks-2026/Hindsight) (Cal Hacks 13.0) | A transfer planner for California community college students, built with Claude. Every answer cites its source, using official ASSIST data and scraped campus pages. I shaped the idea, features and vision. |
+| [**Hindsight**](https://github.com/Cal-Hacks-2026/Hindsight) (Cal Hacks 13.0) | A transfer planner for California community college students, built with Claude. Built with Python, FastAPI, TypeScript, React, Supabase, Claude, Apify and the Factory Droid SDK. Code, not a model, decides which classes count, and every answer cites its source. I shaped the idea, features and vision. |
 | [**Resume Tailor**](https://github.com/vdkarthikeya/resume-tailor) | Paste a job link, get a one-page, ATS-safe resume compiled from my own LaTeX. Every edit has to quote my own records, or the original wording stays. |
 | [**Home price model**](https://github.com/vdkarthikeya/idx-summer2026) (IDX Exchange) | XGBoost model for California home sale prices, typically within 8.6% of the actual price. Includes a data leakage bug I found and fixed. |
 | [**Movie Genre Classification**](https://github.com/vdkarthikeya/movie-genre-classification-nlp) | Multi-label genre prediction on 42K+ films with MiniLM, MPNet and e5-large-v2 embeddings, comparing Logistic Regression, XGBoost and LightGBM. |
